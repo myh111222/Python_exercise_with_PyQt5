@@ -1,0 +1,3 @@
+Double_Mcspicy 1 0.70
+Big_Mac 1 0.20
+Double_Cheese_Burger 1 0.30
